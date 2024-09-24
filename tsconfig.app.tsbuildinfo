@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/myprovider.tsx","./src/main.app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/keycloak-theme/kc.gen.tsx","./src/keycloak-theme/login/kccontext.ts","./src/keycloak-theme/login/kcpage.tsx","./src/keycloak-theme/login/kcpagestory.tsx","./src/keycloak-theme/login/i18n.ts"],"version":"5.6.2"}
